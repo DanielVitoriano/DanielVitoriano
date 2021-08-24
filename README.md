@@ -1,5 +1,10 @@
 ### Oi, eu sou Daniel 🖖 
 
+Programador e estudante de Jogos Digitais, pela FBUni.
+* Apaixonado por Jogos 🎮
+* Apreciador da filosofia 💭
+* Curtidor do bom e velho Rock'n Roll 🤘
+
  <div>
   <a href="https://github.com/DanielVitoriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielVitoriano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
